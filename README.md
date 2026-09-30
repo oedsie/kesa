@@ -73,6 +73,7 @@ Logica	je	hetzelfde
 Logica	so	anders
 Logica	to	vraag
 De keuze is geïnspireerd op onderzoek naar semantische primitieven: begrippen die in vrijwel alle talen voorkomen en niet eenvoudiger te definiëren zijn.
+
 4. Woorden bouwen
 Een woord is een reeks kernen: de eerste is het hoofd, de rest verfijnt het. Kesa kent geen woordsoorten; of iets een ding, handeling of eigenschap is, blijkt uit de plaats in de zin.
 Woord	Opbouw	Betekenis
@@ -84,6 +85,7 @@ ke-ji	voelen · goed	blijdschap
 Door van grof naar fijn te bouwen, weet de luisteraar na één lettergreep al de richting. De spreker verfijnt niet verder dan de situatie vraagt: in een gesprek over werk volstaat wo-ti-sa (denk-praat-plek) voor kantoor.
 Afkortingen
 Veelgebruikte lange woorden mogen worden ingekort, zoals kepu voor verdriet. De volledige vorm blijft altijd de geldige definitie, zodat iedereen een afkorting kan terugvoeren op haar kernen.
+
 5. Zinnen bouwen
 Een zin heeft een vaste volgorde: kader · wie · doet · wat. Het kader is optioneel; de rest staat altijd in deze volgorde.
 Volgorde
@@ -108,6 +110,7 @@ De losse klinkers ordenen de zin:
 •	e verbindt twee delen als "van, bij, over": ke e tu = gevoel over jou.
 Deelzinnen
 ki (als) en te (omdat) openen een nieuwe deelzin: mi ke ji te tu pa. = ik voel me goed omdat jij hier bent.
+
 6. Samen betekenis maken
 Gedeeld begrip ontstaat in de afstemlus: vastleggen, terugspiegelen, bevestigen of corrigeren. Je herhaalt de lus tot beide partijen jo zeggen.
 Stap	Woord	Functie
@@ -123,6 +126,7 @@ B: jo. Klopt, afgesproken.
 In drie beurten is zichtbaar waar het verschil zat: ko ne (altijd) tegenover wa (willen). Voor A gaat vertrouwen over intentie, niet over een garantie.
 Het gedeelde lexicon
 Een groep die samenwerkt, bouwt zo een eigen lexicon op van vastgelegde woorden. Elk woord blijft traceerbaar tot kernen. Een nieuwkomer vraagt to kima. en krijgt de volledige definitie terug; niemand hoeft het lexicon uit het hoofd te leren.
+
 7. Zintuigen en waarneming
 Een zintuiglijke kwaliteit kun je niet definiëren, alleen samen ijken aan een gedeelde ervaring. Kesa doet dat in drie delen: een zintuig kiezen, een kwaliteit ijken, en die verfijnen met bestaande kernen.
 1. Het zintuig
@@ -143,6 +147,7 @@ Het kader vooraan maakt zichtbaar of je deelt wat je waarnam of wat je denkt:
 •	si mi fo a ja kovi u la ma. betekent "waargenomen: ik ruik iets als koffie, sterk, dichtbij" (kovi is een eerder geijkt woord).
 •	ti ka-kovi pa. betekent "gedacht: hier is koffie".
 In een si-zin gaan ji en pu altijd over jouw beleving, nooit over het ding zelf. "Ik ervaar het als onaangenaam" is een waarneming; "het is slecht" is een oordeel en hoort in een ti-zin.
+
 8. De taal laten groeien
 Kesa groeit op twee niveaus: de kernen veranderen bijna nooit, het gedeelde lexicon groeit voortdurend.
 Nieuwe woorden
@@ -152,6 +157,7 @@ Een kern voeg je alleen toe als aan beide voorwaarden is voldaan:
 1.	Onherleidbaar: het begrip is niet uit bestaande kernen op te bouwen.
 2.	Universeel: het komt in vrijwel elke menselijke ervaring voor.
 De zintuigen voldeden aan beide en kregen daarom de f-reeks. De vrije lettergreep mu is beschikbaar voor de eerstvolgende kern die de toets doorstaat. Een nieuwe medeklinker toevoegen mag alleen voor een samenhangende reeks van vijf kernen.
+
 9. Alle regels op een rij
 De hele taal rust op deze 12 regels.
 #	Regel	Hoofdstuk
@@ -167,6 +173,7 @@ De hele taal rust op deze 12 regels.
 10	Een zintuiglijke kwaliteit ijk je samen: X i [zintuig] ja pa.	7
 11	In een si-zin gaan ji en pu over jouw beleving, nooit over het ding.	7
 12	Een nieuwe kern alleen als die onherleidbaar en universeel is. Afkortingen mogen; de volledige vorm blijft de definitie.	4, 8
+
 10. Voorbeeldlexicon
 Deze woorden zijn geen vaste begrippen maar voorbeelden van samenstellingen; elke gemeenschap mag ze anders afstemmen.
 Gevoelens
