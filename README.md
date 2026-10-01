@@ -1,6 +1,6 @@
 # Kesa
 
-Kesa is een taal voor menselijke expressie die zo snel mogelijk tot gedeeld begrip leidt. Je leert 49 kernbetekenissen en 12 regels; al het andere bouw je daaruit. De naam betekent *voelen-zeggen* (ke-sa).
+Kesa is een taal voor menselijke expressie die zo snel mogelijk tot gedeeld begrip leidt. Je leert 50 kernbetekenissen en 12 regels; al het andere bouw je daaruit. De naam betekent *voelen-zeggen* (ke-sa).
 
 > **pi lu pe se je. ju lu pe po-wa-je.**
 > Eerst weten mensen hetzelfde. Daarna werken mensen samen.
@@ -54,7 +54,7 @@ In standaardspelling schrijf je een woord aaneen: *wolanu*. In dit handboek staa
 
 ## 3. De kernen
 
-Kesa heeft 49 kernen: de enige vaste begrippen van de taal. Elke kern is één lettergreep en niet verder te ontleden. De lettergreep *mu* is gereserveerd voor een toekomstige kern.
+Kesa heeft 50 kernen: de enige vaste begrippen van de taal. Elke kern is één lettergreep en niet verder te ontleden. Daarmee zijn alle 50 mogelijke lettergrepen bezet.
 
 | Groep | Kern | Betekenis |
 | --- | --- | --- |
@@ -73,6 +73,7 @@ Kesa heeft 49 kernen: de enige vaste begrippen van de taal. Elke kern is één l
 | Ervaren | wa | willen |
 | Ervaren | sa | zeggen |
 | Ervaren | po | doen, maken |
+| Ervaren | mu | bewegen, gaan |
 | Ervaren | we | gebeuren |
 | Ervaren | ta | hebben, deel zijn van |
 | Ervaren | le | leven |
@@ -254,7 +255,7 @@ Een kern voeg je alleen toe als aan beide voorwaarden is voldaan:
 1. **Onherleidbaar**: het begrip is niet uit bestaande kernen op te bouwen.
 2. **Universeel**: het komt in vrijwel elke menselijke ervaring voor.
 
-De zintuigen voldeden aan beide en kregen daarom de f-reeks. De vrije lettergreep *mu* is beschikbaar voor de eerstvolgende kern die de toets doorstaat. Een nieuwe medeklinker toevoegen mag alleen voor een samenhangende reeks van vijf kernen.
+De zintuigen voldeden aan beide en kregen daarom de f-reeks. Bewegen voldeed ook en kreeg de laatste vrije lettergreep, *mu*. Alle lettergrepen zijn nu bezet: een volgende kern vraagt een nieuwe medeklinker, en die voeg je alleen toe voor een samenhangende reeks van vijf kernen.
 
 ## 9. Alle regels op een rij
 
@@ -314,13 +315,25 @@ Deze woorden zijn geen vaste begrippen maar voorbeelden van samenstellingen; elk
 | wo-la-nu a po ji lo u | gebouw (lichamen goed maken) | ziekenhuis |
 | wo-la-nu a pe se me u | gebouw (mensen weten meer) | school |
 
+### Dieren
+
+| Kesa | Letterlijk | Betekenis |
+| --- | --- | --- |
+| ka-le | levend ding | levend wezen |
+| ka-le-mo-mo | heel klein levend ding | insect |
+| ka-le-mu-su | levend ding dat boven beweegt | vogel |
+| ka-le-mo-mo-mu-su | heel klein levend ding dat boven beweegt | vliegend insect |
+| ka-le-mo-mo-mu-su a ma ka-fe u | … dat bij voedsel komt | vlieg |
+| ka-le-mo-mo-mu-su a po pu lo u | … dat het lichaam iets slechts doet | mug |
+| ka-le-mo-mo-mu-su a po ka-fe-ji u | … dat iets lekkers maakt | bij |
+
 ### Zinnen
 
 | Kesa | Betekenis |
 | --- | --- |
 | *to tu ke ji.* | Voel jij je goed? |
 | *mi no se. wu mi ti so.* | Ik weet het niet. Misschien denk ik anders. |
-| *ju mi po wo-ti-sa.* | Ik ga straks naar kantoor. |
+| *ju mi mu wo-ti-sa.* | Ik ga straks naar kantoor. |
 | *ki a tu ku u mi ke-pu-te-no-ta-ji ko ne.* | Als jij sterft, mis ik je altijd. |
 | *ki a lu pe no ta ja-sa-je u lu pe no li po-wa-je.* | Voor samenwerking is een gemeenschappelijke taal nodig. |
 | *pi lu pe se je. ju lu pe po-wa-je.* | Samenwerken begint met een gemeenschappelijk begrip. |
@@ -331,7 +344,6 @@ Deze woorden zijn geen vaste begrippen maar voorbeelden van samenstellingen; elk
 
 Kesa is sterk in abstracte menselijke ervaring en zwakker in concrete details. Deze punten staan nog open:
 
-- **Beweging ontbreekt.** Er is geen kern voor gaan of bewegen; de zin *ju mi po wo-ti-sa* leunt daarom op *po*. Bewegen is de sterkste kandidaat voor de vrije lettergreep *mu*.
 - **Concrete dingen worden lang.** Een fiets of espresso vraagt een lange omschrijving of een geijkt woord. Een optie is een aparte leenwoordenlaag die buiten de kernlogica blijft.
 - **Exact tellen ontbreekt.** *wi*, *ni* en *lu* dekken één, twee en veel; voor grotere getallen is een telsysteem nodig.
 - **IJken vraagt gedeelde ervaring.** Op afstand kun je niet samen aanwijzen; dan moet je vergelijken met eerder geijkte woorden.
